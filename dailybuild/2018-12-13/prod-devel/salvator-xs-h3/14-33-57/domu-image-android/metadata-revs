@@ -1,0 +1,7 @@
+meta              = pyro:773e56f0e55760bea9cb79390441145f7953d1a7
+meta-poky         = pyro:773e56f0e55760bea9cb79390441145f7953d1a7
+meta-java         = pyro:0c27b120aa508e4bb41394b8dd3645949a611128
+meta-oe           = pyro:9eaebc6e783f1394bb5444326cd05a976b3122e9
+meta-python       = pyro:9eaebc6e783f1394bb5444326cd05a976b3122e9
+meta-xt-images-extra = <unknown>:<unknown>
+meta-xt-prod-extra = <unknown>:<unknown>

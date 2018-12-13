@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://github.com" name="github"/>
+  
+  <default remote="github" sync-c="true" sync-j="10"/>
+  
+  <project name="xen-troops/meta-xt-images" path="meta-xt-images" revision="1928d9809f82006e63edb4551d79795562e61f2a" upstream="master"/>
+  <project name="xen-troops/meta-xt-prod-devel" path="meta-xt-prod-devel" revision="293762405f9bbdc1b10c418ab03e7cb7c2ff5fe9" upstream="master"/>
+  <project name="xen-troops/xt-distro" path="xt-distro" revision="1eee37bd7e68421da8238f2382dd8786aebff2c5" upstream="master"/>
+</manifest>
